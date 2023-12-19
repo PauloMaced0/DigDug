@@ -1,7 +1,7 @@
 # ia-digdug
 DigDug clone for AI teaching
 
-https://github.com/PauloMaced0/digdug-ia/assets/99764328/f732ce7d-2dcb-41f7-9775-fc5a69180662
+https://github.com/PauloMaced0/digdug-ia/assets/99764328/ba22adda-b3d2-4685-ae18-6fc253e51978
 
 ## How to install
 
