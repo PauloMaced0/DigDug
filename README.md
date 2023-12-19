@@ -1,6 +1,8 @@
 # ia-digdug
 DigDug clone for AI teaching
 
+<video src="./digdug.webm" width="320" height="240" controls></video>
+
 ## How to install
 
 Make sure you are running Python 3.11.
