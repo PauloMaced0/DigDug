@@ -23,6 +23,12 @@ open 3 terminals:
 
 to play using the sample client make sure the client pygame hidden window has focus
 
+As an alternative to the previous `$ python3 client.py` command, you can also try:
+
+`$ python3 student.py`
+
+This will run the autonomous agent to solve digdug levels
+
 ### Keys
 
 Directions: arrows
